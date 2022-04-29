@@ -41,7 +41,7 @@ Selector de clase (.) */
 
 /* Especificidad de los selectores (jerarquia)
 
-etiqueta<clase<id 
+etiqueta<clase<id<inline<"!important" 
 */
 
 
