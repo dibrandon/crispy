@@ -2,3 +2,17 @@
     background-color: lightseagreen;
 }
 
+/* comentario multilinea
+
+*/
+
+selector {
+    propiedades: valor;
+    propiedades: valor;
+}
+
+/* selector de etiqueta */
+
+p {
+    color: red;
+}
