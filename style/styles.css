@@ -6,13 +6,42 @@
 
 */
 
-selector {
+/* selector {
     propiedades: valor;
     propiedades: valor;
-}
+} */
+/* 
+Selector universal (asterisco)
+*{
+    propiedades: valor;
+} */
 
 /* selector de etiqueta */
 
 p {
-    color: red;
+    color: #ff0000; /*abreviacion #f00*/
 }
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: rgb(0, 255, 0)
+}
+/* 
+Selector de ID (#)*/
+#negrita {
+    font-weight: bold;
+}
+/* 
+Selector de clase (.) */
+.italica {
+    font-style: italic;
+}
+
+/* Especificidad de los selectores (jerarquia)
+
+etiqueta<clase<id 
+*/
+
+
