@@ -44,4 +44,16 @@ Selector de clase (.) */
 etiqueta<clase<id<inline<"!important" 
 */
 
+/* div p {
+    color: blue;
+} */
+
+/* .caja p {
+    color: blue;
+} */
+
+.caja > p { /* el simbolo ">" quiere decir "solo p hijos directos de la clase caja" */
+    color: blue;
+}
+
 
