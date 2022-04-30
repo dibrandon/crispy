@@ -56,4 +56,8 @@ etiqueta<clase<id<inline<"!important"
     color: blue;
 }
 
-
+.article {
+    background-color: black;
+    color: olivedrab;
+}
+/* recomendacion usar mas clases que selectores de etiqueta. 
