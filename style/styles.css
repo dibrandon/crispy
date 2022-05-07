@@ -96,7 +96,7 @@ etiqueta<clase<id<inline<"!important"
 
 .parrafo-1 {
     /* padding: 20px; equivale a escribirlo detallado como abajo */
-    padding-top: 20px;
+    padding-top: 20px;  /*El padding separa el contenido del elemento*/
     padding-right: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
@@ -104,5 +104,22 @@ etiqueta<clase<id<inline<"!important"
     /*el orden para escribir es en sentido horario*/      
 }
 .parrafo-2 {
-    margin: 20px;
+     margin: 20px; /* El margin separa un elemento de otro */
+}
+
+.parrafo-1 {
+    padding: 20px;
+}
+
+.elemento-1 {
+    width: 180px;
+    height: 80px;
+    background-color: pink;
+    padding: 10px;
+}
+
+.elemento-2 {
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
 }
