@@ -65,3 +65,24 @@ etiqueta<clase<id<inline<"!important"
 .importante {
     color: #ff0000;
 }
+
+.azul
+{
+    color: blue;
+}
+
+
+.div {
+    color: #ff0000;
+    background-color: yellow;
+    width: 400px;
+    height: 200px;
+}
+
+.span {
+    display: block; /*esta propiedad es la que permite a un elemento de linea mostrarse como elemento de bloque*/
+    color: blue;
+    background-color: black;
+    width: 400px;
+    height: 200px;
+}
