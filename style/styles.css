@@ -60,4 +60,8 @@ etiqueta<clase<id<inline<"!important"
     background-color: black;
     color: olivedrab;
 }
-/* recomendacion usar mas clases que selectores de etiqueta. 
+/* recomendacion usar mas clases que selectores de etiqueta.  */
+
+.importante {
+    color: #ff0000;
+}
