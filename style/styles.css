@@ -86,3 +86,23 @@ etiqueta<clase<id<inline<"!important"
     width: 400px;
     height: 200px;
 }
+
+.parrafo-1, .parrafo-2 { /* seleccionar multiples selectores usando la coma (,) y asi ahorramosen codigo*/
+    color: aliceblue;
+    background-color: darkred;
+}
+
+
+
+.parrafo-1 {
+    /* padding: 20px; equivale a escribirlo detallado como abajo */
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+    /*el orden para escribir es en sentido horario*/      
+}
+.parrafo-2 {
+    margin: 20px;
+}
